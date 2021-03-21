@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: cursive;
+}
+#image_text{
+    font-size:30px;
+    font-variant: small-caps;
+  }
+  #album{
+    padding: 10px;
+    width:250px;
+  }
